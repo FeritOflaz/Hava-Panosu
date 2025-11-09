@@ -38,7 +38,6 @@ Hava-Panosu/
 ## 🛠️ Kurulum
 
 ### 🔹 1. Yalnızca uygulamayı kullanmak istiyorsanız
-GitHub’ın **Releases** bölümünden `.exe` dosyasını indirip doğrudan çalıştırabilirsiniz.  
 📦 [💾 HavaPanosu_v1.0.exe indir](https://github.com/FeritOflaz/Hava-Panosu/raw/main/dist/HavaPanosu_v1.0.exe)
 
 Hiçbir ek kurulum gerekmez — çift tıklayıp hemen kullanabilirsiniz.
