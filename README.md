@@ -39,7 +39,7 @@ Hava-Panosu/
 
 ### 🔹 1. Yalnızca uygulamayı kullanmak istiyorsanız
 GitHub’ın **Releases** bölümünden `.exe` dosyasını indirip doğrudan çalıştırabilirsiniz.  
-📦 [💾 HavaPanosu_v1.0.exe indir (en son sürüm)](https://github.com/<kullanici-adin>/hava-panosu-v1/releases/latest/download/HavaPanosu_v1.0.exe)
+📦 [💾 HavaPanosu_v1.0.exe indir (en son sürüm)](https://github.com/FeritOflaz/Hava-Panosu/releases/latest/download/HavaPanosu_v1.0.exe)
 
 Hiçbir ek kurulum gerekmez — çift tıklayıp hemen kullanabilirsiniz.
 
