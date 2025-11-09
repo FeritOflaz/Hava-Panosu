@@ -21,6 +21,20 @@ Hiçbir API anahtarı gerektirmez — sadece aç, şehrini seç ve hava durumunu
 
 ---
 
+## 📂 Proje Yapısı
+```
+Hava-Panosu/
+├── HavaPanosu_v1.0.py
+├── cloud.ico
+├── dist/
+│   └── HavaPanosu_v1.0.exe
+├── preview.png
+├── README.md
+└── LICENSE
+```
+
+---
+
 ## 🛠️ Kurulum
 
 ### 🔹 1. Yalnızca uygulamayı kullanmak istiyorsanız
